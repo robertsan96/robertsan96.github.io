@@ -1,4 +1,4 @@
 baseURL = 'http://robertsandru.com/'
 languageCode = 'en-us'
 title = 'Robert Sandru'
-theme = 'ananke'
+theme = 'papermod'
