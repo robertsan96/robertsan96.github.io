@@ -23,12 +23,12 @@ let isWorrying = false // Love it.
 After hours of frustration, I realized all I had to do was to answer to some
 basic questions before making the right decision:
 
-1. Do I care about my money?
-2. Do I need a fully managed solution (users, email campaigns bla bla)?
-3. Do I need anything more than markdown to write?
-4. Do I need fancy themes & looks?
+1. Do I care about my money? - Yes.
+2. Do I need a fully managed solution (users, email campaigns bla bla)? - No
+3. Do I need anything more than markdown to write? - No
+4. Do I need fancy themes & looks? - No
 
-The answer was no. So, here I am writing an article in markdown, enjoying hot
+So, here I am writing an article in markdown, enjoying hot
 reload while waiting for Cloudflare to propagate the DNS changes for my custom
 domain. I went back into using [Hugo](https://gohugo.io/) and GitHub Pages.
 
