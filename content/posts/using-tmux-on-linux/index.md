@@ -7,13 +7,13 @@ tags:
   - Linux
   - Terminal
   - Tmux
+cover:
+  image: "images/tmux-1.webp"
 ---
 
 Whether you are new to the terminal or not, using tmux definitely worth it. In a nutshell, tmux is an open source terminal multiplexer that’s going to help you
 have multiple terminal sessions in the same window (panes) and also multiple
 windows.
-
-![Tmux Multiple Panes](images/tmux-1.webp)
 
 Beside it’s mainstream functionality, tmux is also great for keeping sessions
 alive so even if you close your terminal, when you reopen it, you are able to

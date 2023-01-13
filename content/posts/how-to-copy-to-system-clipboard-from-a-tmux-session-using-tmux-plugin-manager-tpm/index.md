@@ -8,6 +8,8 @@ tags:
 - Linux
 - Terminal
 - Tmux
+cover:
+  image: "images/tmux.png"
 ---
 
 One important thing people realize when they use tmux on a daily basis, is that
@@ -50,16 +52,14 @@ run '~/.tmux/plugins/tpm/tpm'
 ```
 
 Save the file, then open a new tmux session. In order to install plugins,
-all you have to do is to use the `prefix + capital i` letter. My command prefix is
-Ctrl + B on Ubuntu.
+all you have to do is to use the `prefix + capital i` letter. My command prefix
+is Ctrl + B on Ubuntu.
 
 ```bash
 Ctrl+B + I
 ```
 
 The TMUX environment will automatically reload then.
-
-![Tmux](images/tmux.png)
 
 At this point, you should be able to select text and copy it into your
 clipboard. For example, try to vim into your `~/.tmux.conf` file, go into the
