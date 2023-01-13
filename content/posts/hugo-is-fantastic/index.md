@@ -2,6 +2,7 @@
 title: "Hugo is fantastic"
 date: 2023-01-13T01:18:47+02:00
 draft: false
+author: "Robert Sandru"
 ---
 
 Today is a **big** day in my journey as a software developer. I finally managed
@@ -36,4 +37,4 @@ Until then, I can focus on writing.
 
 Look at the speed:
 
-![Speed Test](images/speed-test.png)
+![Speed Test](images/speed-test.pngspeed-test.png)
