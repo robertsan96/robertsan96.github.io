@@ -36,4 +36,4 @@ Until then, I can focus on writing.
 
 Look at the speed:
 
-![Speed Test](speed-test.png)
+![Speed Test](images/speed-test.png)
