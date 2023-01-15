@@ -11,7 +11,7 @@ cover:
   image: "images/london.jpeg"
 ---
 
-This is the craziest stuff I ever did on my iPhone: writing this article using Vim.
+This is the craziest stuff I ever done on my iPhone: writing this article using Vim.
 
 I decided to have a city break in London this weekend. The plan was to disconnect a bit from technology, leaving my laptop at home to fully enjoy my two days off. I want to confess that today I walked ~20kms, so Saturday evening caught me exhausted in bed. Physically tired.
 
