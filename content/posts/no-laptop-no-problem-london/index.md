@@ -8,7 +8,7 @@ tags:
 - Terminal
 - iPhone
 cover:
-  image: "images/london.png"
+  image: "images/london.jpeg"
 ---
 
 This is the craziest stuff I ever did on my iPhone: writing this article using Vim.
@@ -17,7 +17,7 @@ I decided to have a city break in London this weekend. The plan was to disconnec
 
 Tried to sleep, couldn't. My mind was constantly thinking about code, **what the hell**. One of the main points of my trip was to disconnect from tech. This was the moment I started to miss my laptop... 
 
-Ok: no code environment, but how about writing on my blog? For a moment, I started to regret the fact that my blog is not Wordpress, as writing markdown articles using Hugo can be a pain one the go. Let's be real: the Wordpress app is so nice - UI is good, the editor is fantastic, everything a blogger needs. 
+Ok: no code environment, but how about writing on my blog? For a moment, I started to regret the fact that my blog is not Wordpress, as writing markdown articles using Hugo can be a pain on the go. Let's be real: the Wordpress app is so nice - UI is good, the editor is fantastic, everything a blogger needs. 
 
 But what if I challenge myself to write an article using my iPhone? **brain: heavy breathing**. Writing an article for this blog means:
 
@@ -25,7 +25,7 @@ But what if I challenge myself to write an article using my iPhone? **brain: hea
 2. Creating a new markdown post
 3. Pushing changes to the main branch, where the GitHub workflow is going to use Hugo to build the static website
 
-Well, sounds easy. Let's do that on mobile then. The first think I thought about was to find an app to write MarkDown, then upload the file via the GitHub website and voila! 
+Well, sounds easy. Let's do that on mobile then. The first thing I thought about was to find an app to write MarkDown, then upload the file via the GitHub website and voila! 
 
 Too easy. 
 
@@ -70,3 +70,5 @@ Generated a key and added it to my GitHub profile.
 7. Created my post manually through the CLI, and pushed the changes to my repo. GitHub actions immediately generated the static site and published it. Isn't this amazing?
 
 *Checkpoint: just pushed the changes again just in case*
+
+This iSH app is just out of this world, and I can't believe it's free. I remember using Termux back in the day on Android, and it was powerful, as I could host python django local servers on the phone. Didn't imagine iOS could have something similar, as the AppStore is pretty much restricted. Anyway, until further research, I'm going to invalidate the ssh key used to connect to my GitHub profile. I guess I can go to sleep now.
